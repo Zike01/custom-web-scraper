@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-chrome_driver_path = "C:\\Users\\User\\Desktop\\Programming\\chromedriver.exe"
+chrome_driver_path = YOUR_CHROME_DRIVER_PATH
 
 
 class SteamBot:
